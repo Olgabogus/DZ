@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+padding: 0;
+}
+body{ 
+background:#162831;
+
+    width: 416px;
+    height:540px;
+    top:1049px;
+}
+.logo{
+    position: absolute;
+    width: 60px;
+height: 60px;
+top: 30px;
+left: 312px;
+
+}
+li{
+    list-style-type: none;
+    float: left;
+    padding-left: 50px;
+    
+}
+li:hover{
+    text-decoration: underline;
+    color: #fff;
+}
+li a{
+    color: #fff;
+    text-decoration: none;
+}
+.nav{
+    width: Hug (655px);
+height: Hug (19px);
+top: 51px;
+left: 586px;
+gap: 50px;
+position: absolute;
+}
+.play{
+    width: Hug (155px);
+height: Hug (36px);
+top: 43px;
+left: 1455px;
+padding: 9px 15px 9px 15px;
+border-radius: 3px;
+gap: 10px;
+position: absolute;
+background:  #018ABE;
+color: #fff;
+text-decoration: none;
+
+}
+.play:hover{
+    filter: brightness(1.75);
+}
+.screen{
+    background-image: url(/img/head_logo.png);
+    width: 1296px;
+height: 600px;
+top: 140px;
+left: 312px;
+position: absolute;
+
+}
+h3::before{content: url(/img/Rectangle\ 3.png);
+
+}
+h3::after{
+    content: url(/img/Rectangle\ 5.png);
+}
+h3{
+    position: absolute;
+font-family: El Messiri;
+font-size: 24px;
+font-weight: 700;
+line-height: 34px;
+letter-spacing: 0em;
+text-align: center;
+color:#fff;
+height: 34px;
+top: 136px;
+left: 528px;
+
+}
+h1{
+    position: absolute;
+font-family: El Messiri;
+font-size: 64px;
+font-weight: 700;
+line-height: 90px;
+letter-spacing: 0em;
+text-align: center;
+width: 587px;
+height: 180px;
+top: 210px;
+left: 355px;
+color: #fff;
+
+
+}

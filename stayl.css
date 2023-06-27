@@ -1,0 +1,2270 @@
+.menu{
+
+}/* Отрисовка */
+
+position: relative;
+width: 1920px;
+height: 5155px;
+
+/* bgc */
+background: #162831;
+
+
+/* main-header */
+
+position: absolute;
+width: 1298px;
+height: 60px;
+left: 312px;
+top: 30px;
+
+
+
+/* Group 1 */
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 312px;
+top: 30px;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 312px;
+top: 30px;
+
+/* white */
+background: #FFFFFF;
+
+
+/* W */
+
+position: absolute;
+width: 32px;
+height: 22px;
+left: 326px;
+top: 43.51px;
+
+/* white */
+background: #FFFFFF;
+
+
+/* Frame 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 50px;
+
+position: absolute;
+width: 655px;
+height: 19px;
+left: 586px;
+top: 51px;
+
+
+
+/* Главная */
+
+width: 52px;
+height: 19px;
+
+/* p/14r */
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 19px */
+
+/* white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Сеансы */
+
+width: 50px;
+height: 19px;
+
+/* p/14r */
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 19px */
+
+/* white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Отзывы */
+
+width: 52px;
+height: 19px;
+
+/* p/14r */
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 19px */
+
+/* white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Контакты */
+
+width: 60px;
+height: 19px;
+
+/* p/14r */
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 19px */
+
+/* white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Новости */
+
+width: 55px;
+height: 19px;
+
+/* p/14r */
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 19px */
+
+/* white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Обо мне */
+
+width: 56px;
+height: 19px;
+
+/* p/14r */
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 19px */
+
+/* white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Блог */
+
+width: 30px;
+height: 19px;
+
+/* p/14r */
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 19px */
+
+/* white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 9px 15px;
+gap: 10px;
+
+position: absolute;
+width: 155px;
+height: 36px;
+left: 1455px;
+top: 43px;
+
+/* accent  */
+background: #018ABE;
+border-radius: 3px;
+
+
+/* Записаться на сеанс */
+
+width: 125px;
+height: 18px;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 140%;
+/* or 18px */
+
+/* white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* first-screen */
+
+position: absolute;
+width: 1296px;
+height: 600px;
+left: 312px;
+top: 140px;
+
+
+
+/* unsplash:S-llxYh3GzI */
+
+position: absolute;
+width: 1296px;
+height: 600px;
+left: 312px;
+top: 140px;
+
+background: linear-gradient(0deg, rgba(152, 201, 220, 0.5), rgba(152, 201, 220, 0.5)), url(.jpg);
+border-radius: 10px;
+
+
+/* Акватерапия RitmStyle */
+
+position: absolute;
+width: 587px;
+height: 180px;
+left: 667px;
+top: 350px;
+
+/* heading/64b */
+font-family: 'El Messiri';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 140%;
+/* or 90px */
+text-align: center;
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* Укрепление здоровья */
+
+position: absolute;
+width: 241px;
+height: 34px;
+left: 840px;
+top: 276px;
+
+/* heading/24b */
+font-family: 'El Messiri';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 140%;
+/* identical to box height, or 34px */
+text-align: center;
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 28px;
+height: 14px;
+left: 746px;
+top: 286px;
+
+/* white */
+background: #FFFFFF;
+border-radius: 0px 50px;
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 28px;
+height: 14px;
+left: 1175px;
+top: 286px;
+
+/* white */
+background: #FFFFFF;
+border-radius: 0px 50px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* services */
+
+position: absolute;
+width: 1296px;
+height: 699px;
+left: 312px;
+top: 890px;
+
+
+
+/* heading */
+
+position: absolute;
+width: 482px;
+height: 59px;
+left: 719px;
+top: 890px;
+
+
+
+/* Сеансы RitmStyle */
+
+position: absolute;
+width: 336px;
+height: 59px;
+left: 792px;
+top: 890px;
+
+/* heading/42b */
+font-family: 'El Messiri';
+font-style: normal;
+font-weight: 700;
+font-size: 42px;
+line-height: 140%;
+/* identical to box height, or 59px */
+text-align: center;
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 28px;
+height: 14px;
+left: 719px;
+top: 912px;
+
+/* accent  */
+background: #018ABE;
+border-radius: 0px 50px;
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 28px;
+height: 14px;
+left: 1201px;
+top: 912px;
+
+/* accent  */
+background: #018ABE;
+border-radius: 0px 50px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group 18 */
+
+position: absolute;
+width: 416px;
+height: 540px;
+left: 312px;
+top: 1049px;
+
+
+
+/* unsplash:TnOyyEtrKd0 */
+
+position: absolute;
+width: 416px;
+height: 540px;
+left: 312px;
+top: 1049px;
+
+background: linear-gradient(0deg, rgba(1, 138, 190, 0.5), rgba(1, 138, 190, 0.5)), url(.jpg), url(image.png), #8E8E8E;
+border-radius: 10px;
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 416px;
+height: 7px;
+left: 312px;
+top: 1582px;
+
+/* accent  */
+background: #018ABE;
+border-radius: 0px 0px 10px 10px;
+
+
+/* Стандартный RitmStyle */
+
+position: absolute;
+width: 258px;
+height: 34px;
+left: 362px;
+top: 1505px;
+
+/* heading/24b */
+font-family: 'El Messiri';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 140%;
+/* identical to box height, or 34px */
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* Group 19 */
+
+position: absolute;
+width: 416px;
+height: 258px;
+left: 752px;
+top: 1331px;
+
+
+
+/* unsplash:TnOyyEtrKd0 */
+
+position: absolute;
+width: 416px;
+height: 258px;
+left: 752px;
+top: 1331px;
+
+background: linear-gradient(0deg, rgba(1, 138, 190, 0.5), rgba(1, 138, 190, 0.5)), url(.jpg), #8E8E8E;
+border-radius: 10px;
+
+
+/* RitmStyle для беременных */
+
+position: absolute;
+width: 336px;
+height: 34px;
+left: 792px;
+top: 1525px;
+
+font-family: 'El Messiri';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 140%;
+/* identical to box height, or 34px */
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* Group 22 */
+
+position: absolute;
+width: 416px;
+height: 258px;
+left: 1192px;
+top: 1331px;
+
+
+
+/* unsplash:TnOyyEtrKd0 */
+
+position: absolute;
+width: 416px;
+height: 258px;
+left: 1192px;
+top: 1331px;
+
+background: linear-gradient(0deg, rgba(1, 138, 190, 0.5), rgba(1, 138, 190, 0.5)), url(.jpg), #8E8E8E;
+border-radius: 10px;
+
+
+/* RitmStyle + красочная подводная фотосессия */
+
+position: absolute;
+width: 336px;
+height: 68px;
+left: 1232px;
+top: 1491px;
+
+/* heading/24b */
+font-family: 'El Messiri';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 140%;
+/* or 34px */
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* Group 20 */
+
+position: absolute;
+width: 416px;
+height: 258px;
+left: 752px;
+top: 1049px;
+
+
+
+/* unsplash:TnOyyEtrKd0 */
+
+position: absolute;
+width: 416px;
+height: 258px;
+left: 752px;
+top: 1049px;
+
+background: linear-gradient(0deg, rgba(1, 138, 190, 0.5), rgba(1, 138, 190, 0.5)), url(.jpg);
+border-radius: 10px;
+
+
+/* RitmStyle для пар */
+
+position: absolute;
+width: 336px;
+height: 34px;
+left: 792px;
+top: 1243px;
+
+/* heading/24b */
+font-family: 'El Messiri';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 140%;
+/* identical to box height, or 34px */
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* Group 21 */
+
+position: absolute;
+width: 416px;
+height: 258px;
+left: 1192px;
+top: 1049px;
+
+
+
+/* unsplash:TnOyyEtrKd0 */
+
+position: absolute;
+width: 416px;
+height: 258px;
+left: 1192px;
+top: 1049px;
+
+background: linear-gradient(0deg, rgba(1, 138, 190, 0.5), rgba(1, 138, 190, 0.5)), url(.jpg), url(image.png), #8E8E8E;
+border-radius: 10px;
+
+
+/* unsplash:TnOyyEtrKd0 */
+
+position: absolute;
+width: 336px;
+height: 68px;
+left: 1232px;
+top: 1209px;
+
+/* heading/24b */
+font-family: 'El Messiri';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 140%;
+/* or 34px */
+
+color: #FFFFFF;
+
+
+
+/* reviews */
+
+position: absolute;
+width: 1736px;
+height: 585px;
+left: 92px;
+top: 1739px;
+
+
+
+/* heading */
+
+position: absolute;
+width: 300px;
+height: 59px;
+left: 810px;
+top: 1739px;
+
+
+
+/* Отзывы */
+
+position: absolute;
+width: 154px;
+height: 59px;
+left: 883px;
+top: 1739px;
+
+/* heading/42b */
+font-family: 'El Messiri';
+font-style: normal;
+font-weight: 700;
+font-size: 42px;
+line-height: 140%;
+/* identical to box height, or 59px */
+text-align: center;
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 28px;
+height: 14px;
+left: 810px;
+top: 1761px;
+
+/* accent  */
+background: #018ABE;
+border-radius: 0px 50px;
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 28px;
+height: 14px;
+left: 1110px;
+top: 1761px;
+
+/* accent  */
+background: #018ABE;
+border-radius: 0px 50px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* review */
+
+position: absolute;
+width: 636px;
+height: 350px;
+left: 642px;
+top: 1898px;
+
+
+
+/* Rectangle 16 */
+
+position: absolute;
+width: 636px;
+height: 350px;
+left: 642px;
+top: 1898px;
+
+/* accent  */
+background: #018ABE;
+border-radius: 10px;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Netus diam risus morbi nulla dictum. Urna mi orci gravida placerat amet, eu, aliquet facilisis aliquet. Dolor praesent nam ornare fringilla enim nibh donec sit imperdiet. Amet, diam duis eu sit et. Volutpat vestibulum a lectus sed blandit. Venenatis urna mattis eu enim molestie iaculis et aliquet. Velit in pellentesque vestibulum phasellus orci. Fermentum sed phasellus aliquam nulla non aenean. Quisque id nunc, mauris potenti a massa. Fermentum at elit, convallis leo dolor aliquet id elementum. Ullamcorper sociis et cum bibendum in egestas. Diam, urna, sed tempus mollis aliquam elit. Facilisi nam nulla pulvinar mauris vel lacinia venenatis. */
+
+position: absolute;
+width: 516px;
+height: 196px;
+left: 702px;
+top: 1996px;
+
+/* p / 14l */
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 140%;
+/* or 20px */
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* Кира Иванова */
+
+position: absolute;
+width: 516px;
+height: 28px;
+left: 702px;
+top: 1948px;
+
+/* p / 20b */
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 140%;
+/* identical to box height, or 28px */
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* review */
+
+position: absolute;
+width: 500px;
+height: 276px;
+left: 1328px;
+top: 1935px;
+
+opacity: 0.4;
+
+
+/* Rectangle 17 */
+
+position: absolute;
+width: 500px;
+height: 276px;
+left: 1328px;
+top: 1935px;
+
+/* accent  */
+background: #018ABE;
+border-radius: 10px;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lacinia eget mattis orci aliquam enim tincidunt gravida aliquet ut. Ipsum vulputate morbi felis, lobortis tincidunt. Pretium dictum odio feugiat auctor diam sit viverra gravida. Lobortis arcu rhoncus, mi mi vitae feugiat amet, vitae ac. Cursus diam turpis iaculis nisi sit. Vel blandit et sit elit vestibulum feugiat proin tempor, justo. Diam commodo, pellentesque at porttitor tristique faucibus faucibus morbi. Bibendum pretium lacus, tempus viverra vitae odio nunc eget. Tortor fermentum orci neque sed. Mauris faucibus diam lorem erat ullamcorper donec egestas neque. Maecenas malesuada mauris magnis sed id. Luctus vitae justo, in consectetur arcu. Nulla feugiat at eu in aliquet. Diam nunc, libero mauris tellus suspendisse morbi sagittis semper. */
+
+position: absolute;
+width: 410px;
+height: 142px;
+left: 1373px;
+top: 2012px;
+
+/* p / 10l */
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 140%;
+/* or 14px */
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* Яна Жернова */
+
+position: absolute;
+width: 410px;
+height: 22px;
+left: 1373px;
+top: 1975px;
+
+/* p / 16b */
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* review */
+
+position: absolute;
+width: 500px;
+height: 276px;
+left: 92px;
+top: 1935px;
+
+opacity: 0.4;
+
+
+/* Rectangle 18 */
+
+position: absolute;
+width: 500px;
+height: 276px;
+left: 92px;
+top: 1935px;
+
+/* accent  */
+background: #018ABE;
+border-radius: 10px;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur nulla viverra egestas tellus. Cursus scelerisque phasellus netus proin. Etiam mauris maecenas facilisis faucibus mauris eleifend purus. Purus dictum vulputate elementum mauris amet. Hendrerit sit cras ullamcorper morbi quam vitae ante nibh. Ornare ipsum mi nisl augue placerat lacus. Dolor ipsum fermentum viverra bibendum faucibus urna. Arcu, ut sed tellus lacus quisque diam. Semper sed aenean in etiam mus praesent diam semper in. Pretium id a amet, massa ligula nibh faucibus ornare. Ut aenean rhoncus sed nam ut diam dapibus. Risus nibh faucibus eu vestibulum tempor, quis ultrices mauris. Porta enim, donec odio sagittis, eget velit at. */
+
+position: absolute;
+width: 410px;
+height: 128px;
+left: 137px;
+top: 2012px;
+
+/* p / 10l */
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 140%;
+/* or 14px */
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* Александра Дмитриева */
+
+position: absolute;
+width: 410px;
+height: 22px;
+left: 137px;
+top: 1975px;
+
+/* p / 16b */
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* controls */
+
+position: absolute;
+width: 124px;
+height: 16px;
+left: 898px;
+top: 2308px;
+
+
+
+/* Rectangle 19 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 898px;
+top: 2308px;
+
+/* white */
+background: #FFFFFF;
+border-radius: 3px;
+
+
+/* Rectangle 20 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 934px;
+top: 2308px;
+
+/* white */
+background: #FFFFFF;
+opacity: 0.4;
+border-radius: 3px;
+
+
+/* Rectangle 21 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 970px;
+top: 2308px;
+
+/* white */
+background: #FFFFFF;
+opacity: 0.4;
+border-radius: 3px;
+
+
+/* Rectangle 22 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 1006px;
+top: 2308px;
+
+/* white */
+background: #FFFFFF;
+opacity: 0.4;
+border-radius: 3px;
+
+
+/* about */
+
+position: absolute;
+width: 1076px;
+height: 1024px;
+left: 422px;
+top: 2474px;
+
+
+
+/* heading */
+
+position: absolute;
+width: 389px;
+height: 59px;
+left: 766px;
+top: 2474px;
+
+
+
+/* Об RitmStyle */
+
+position: absolute;
+width: 243px;
+height: 59px;
+left: 839px;
+top: 2474px;
+
+/* heading/42b */
+font-family: 'El Messiri';
+font-style: normal;
+font-weight: 700;
+font-size: 42px;
+line-height: 140%;
+/* identical to box height, or 59px */
+text-align: center;
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* Rectangle 17 */
+
+position: absolute;
+width: 28px;
+height: 14px;
+left: 766px;
+top: 2496px;
+
+/* accent  */
+background: #018ABE;
+border-radius: 0px 50px;
+
+
+/* Rectangle 18 */
+
+position: absolute;
+width: 28px;
+height: 14px;
+left: 1155px;
+top: 2496px;
+
+/* accent  */
+background: #018ABE;
+border-radius: 0px 50px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group 5 */
+
+position: absolute;
+width: 466px;
+height: 234px;
+left: 422px;
+top: 2699px;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in purus, sed tellus eget mattis nibh quam. Eu ornare nunc, id est. Erat consectetur etiam a sit diam in imperdiet amet. Diam nisl, ipsum suscipit amet. Eleifend amet habitasse proin quis adipiscing. Nisl convallis mauris in consequat. Sit ac vitae posuere maecenas dictumst quam. Felis amet diam, non augue massa. Egestas molestie lobortis rhoncus, elit nulla nisl. Habitant tortor at tempor. */
+
+position: absolute;
+width: 466px;
+height: 170px;
+left: 422px;
+top: 2763px;
+
+/* p / 16l */
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* RitmStyle массаж */
+
+position: absolute;
+width: 406.28px;
+height: 34px;
+left: 422px;
+top: 2699px;
+
+/* heading/24b--proxima */
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 140%;
+/* identical to box height, or 34px */
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* Group 6 */
+
+position: absolute;
+width: 466px;
+height: 366px;
+left: 1032px;
+top: 3115px;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu cras quis ac a non ut viverra turpis eget. Hendrerit quis pulvinar massa ipsum sem. Donec posuere nulla enim non neque etiam. Eros arcu, pulvinar penatibus luctus ridiculus sagittis vel nunc hac. Nisi, diam tincidunt dui viverra. Eget quis ultricies sem nunc risus senectus luctus ultricies. Enim feugiat pharetra pharetra et. Pulvinar arcu at morbi posuere cursus. Fermentum est sit enim velit ornare molestie. Ipsum nisi id sed tempor elementum. Mi nunc eget pellentesque ipsum. Suspendisse risus a id vel massa tincidunt. Hendrerit blandit in augue vel mi quam magna egestas. Fringilla ac lacus viverra ullamcorper leo, enim vitae id aliquam. Magna sed tristique tellus enim, netus tempor at elit dui. Ullamcorper hendrerit feugiat libero tellus diam egestas dui tellus odio. */
+
+position: absolute;
+width: 466px;
+height: 302px;
+left: 1032px;
+top: 3179px;
+
+/* p / 16l */
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* RitmStyle гидротерапия */
+
+position: absolute;
+width: 415px;
+height: 34px;
+left: 1032px;
+top: 3115px;
+
+/* heading/24b--proxima */
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 140%;
+/* identical to box height, or 34px */
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* Rectangle 23 */
+
+position: absolute;
+width: 526px;
+height: 365px;
+left: 972px;
+top: 2633px;
+
+background: url(.jpg), url(image.png);
+border-radius: 10px;
+
+
+/* Rectangle 24 */
+
+position: absolute;
+width: 526px;
+height: 400px;
+left: 422px;
+top: 3098px;
+
+background: url(.jpg), url(image.png);
+border-radius: 10px;
+
+
+/* price */
+
+position: absolute;
+width: 1076px;
+height: 614px;
+left: 422px;
+top: 3648px;
+
+
+
+/* heading */
+
+position: absolute;
+width: 518px;
+height: 59px;
+left: 701px;
+top: 3648px;
+
+
+
+/* Стоимость сеансов */
+
+position: absolute;
+width: 372px;
+height: 59px;
+left: 774px;
+top: 3648px;
+
+/* heading/42b */
+font-family: 'El Messiri';
+font-style: normal;
+font-weight: 700;
+font-size: 42px;
+line-height: 140%;
+/* identical to box height, or 59px */
+text-align: center;
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* Rectangle 25 */
+
+position: absolute;
+width: 28px;
+height: 14px;
+left: 701px;
+top: 3670px;
+
+/* accent  */
+background: #018ABE;
+border-radius: 0px 50px;
+
+
+/* Rectangle 26 */
+
+position: absolute;
+width: 28px;
+height: 14px;
+left: 1219px;
+top: 3670px;
+
+/* accent  */
+background: #018ABE;
+border-radius: 0px 50px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group 7 */
+
+position: absolute;
+width: 416px;
+height: 250px;
+left: 422px;
+top: 3910px;
+
+
+
+/* Rectangle 27 */
+
+position: absolute;
+width: 18px;
+height: 9px;
+left: 422px;
+top: 3918px;
+
+/* accent  */
+background: #018ABE;
+border-radius: 0px 50px;
+
+
+/* Rectangle 28 */
+
+position: absolute;
+width: 18px;
+height: 9px;
+left: 422px;
+top: 3974px;
+
+/* accent  */
+background: #018ABE;
+border-radius: 0px 50px;
+
+
+/* Rectangle 29 */
+
+position: absolute;
+width: 18px;
+height: 9px;
+left: 422px;
+top: 4030px;
+
+/* accent  */
+background: #018ABE;
+border-radius: 0px 50px;
+
+
+/* Rectangle 30 */
+
+position: absolute;
+width: 18px;
+height: 9px;
+left: 422px;
+top: 4086px;
+
+/* accent  */
+background: #018ABE;
+border-radius: 0px 50px;
+
+
+/* Rectangle 31 */
+
+position: absolute;
+width: 18px;
+height: 9px;
+left: 422px;
+top: 4142px;
+
+/* accent  */
+background: #018ABE;
+border-radius: 0px 50px;
+
+
+/* RitmStyle с погружением */
+
+position: absolute;
+width: 268px;
+height: 25px;
+left: 460px;
+top: 3910px;
+
+/* p / 18r */
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* Абонемент на RitmStyle */
+
+position: absolute;
+width: 268px;
+height: 25px;
+left: 460px;
+top: 3966px;
+
+/* p / 18r */
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* RitmStyle для пар */
+
+position: absolute;
+width: 268px;
+height: 25px;
+left: 460px;
+top: 4022px;
+
+/* p / 18r */
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* RitmStyle для беременных */
+
+position: absolute;
+width: 268px;
+height: 25px;
+left: 460px;
+top: 4078px;
+
+/* p / 18r */
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* RitmStyle + фотосессия */
+
+position: absolute;
+width: 268px;
+height: 25px;
+left: 460px;
+top: 4134px;
+
+/* p / 18r */
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* 1000р. */
+
+position: absolute;
+width: 87px;
+height: 25px;
+left: 751px;
+top: 3911px;
+
+font-family: 'El Messiri';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+text-align: right;
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* 5500р. */
+
+position: absolute;
+width: 87px;
+height: 25px;
+left: 751px;
+top: 3967px;
+
+font-family: 'El Messiri';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+text-align: right;
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* 6000р. */
+
+position: absolute;
+width: 87px;
+height: 25px;
+left: 751px;
+top: 4023px;
+
+font-family: 'El Messiri';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+text-align: right;
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* 13500р. */
+
+position: absolute;
+width: 87px;
+height: 25px;
+left: 751px;
+top: 4079px;
+
+font-family: 'El Messiri';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+text-align: right;
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* 11500р. */
+
+position: absolute;
+width: 87px;
+height: 25px;
+left: 751px;
+top: 4135px;
+
+font-family: 'El Messiri';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+text-align: right;
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* Group 8 */
+
+position: absolute;
+width: 526px;
+height: 455px;
+left: 972px;
+top: 3807px;
+
+
+
+/* Подарочный сертификат */
+
+position: absolute;
+width: 241px;
+height: 29px;
+left: 1115px;
+top: 4233px;
+
+/* p / 21b--el */
+font-family: 'El Messiri';
+font-style: normal;
+font-weight: 700;
+font-size: 21px;
+line-height: 140%;
+/* or 29px */
+text-align: center;
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* unsplash:M3fhZSBFoFQ */
+
+position: absolute;
+width: 526px;
+height: 396px;
+left: 972px;
+top: 3807px;
+
+background: url(.jpg), url(image.png);
+border-radius: 10px;
+
+
+/* main-footer */
+
+position: absolute;
+width: 1296px;
+height: 19px;
+left: 312px;
+top: 5106px;
+
+
+
+/* © 2018-2022 RitmStyle */
+
+position: absolute;
+width: 143px;
+height: 19px;
+left: 312px;
+top: 5106px;
+
+/* p/14r */
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 19px */
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* Сделано d-e-n.info */
+
+position: absolute;
+width: 122px;
+height: 19px;
+left: 1486px;
+top: 5106px;
+
+/* p / 14b */
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 19px */
+text-align: right;
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* contacts */
+
+position: absolute;
+width: 1296px;
+height: 604px;
+left: 312px;
+top: 4412px;
+
+
+
+/* location */
+
+position: absolute;
+width: 392px;
+height: 290px;
+left: 1216px;
+top: 4412px;
+
+
+
+/* Rectangle 32 */
+
+position: absolute;
+width: 392px;
+height: 290px;
+left: 1216px;
+top: 4412px;
+
+/* accent  */
+background: #018ABE;
+border-radius: 10px;
+
+
+/* Бассейн WorkClass */
+
+position: absolute;
+width: 302px;
+height: 34px;
+left: 1261px;
+top: 4447px;
+
+/* heading/24b */
+font-family: 'El Messiri';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 140%;
+/* identical to box height, or 34px */
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* Group 10 */
+
+position: absolute;
+width: 262px;
+height: 19px;
+left: 1301px;
+top: 4542px;
+
+
+
+/* м. Спасская */
+
+position: absolute;
+width: 262px;
+height: 19px;
+left: 1301px;
+top: 4542px;
+
+/* p/14r */
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 19px */
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* Group 9 */
+
+position: absolute;
+width: 302px;
+height: 100px;
+left: 1261px;
+top: 4501px;
+
+
+
+/* bi:calendar-week-fill */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1261px;
+top: 4581px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* white */
+background: #FFFFFF;
+
+
+/* carbon:location-filled */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1261px;
+top: 4501px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 15.62%;
+right: 15.62%;
+top: 6.25%;
+bottom: 6.25%;
+
+/* white */
+background: #FFFFFF;
+
+
+/* _Inner-Path_ */
+
+position: absolute;
+left: 37.5%;
+right: 37.5%;
+top: 28.12%;
+bottom: 46.88%;
+
+
+
+/* Spb_metro_logo 1 */
+
+position: absolute;
+width: 20px;
+height: 16px;
+left: 1261px;
+top: 4543px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* white */
+background: #FFFFFF;
+
+
+/* Невский 140 */
+
+position: absolute;
+width: 262px;
+height: 19px;
+left: 1301px;
+top: 4502px;
+
+/* p/14r */
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 19px */
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 262px;
+height: 19px;
+left: 1301px;
+top: 4582px;
+
+
+
+/* Запись по договоренности */
+
+position: absolute;
+width: 262px;
+height: 19px;
+left: 1301px;
+top: 4582px;
+
+/* p/14r */
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 19px */
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 9px 15px;
+gap: 10px;
+
+position: absolute;
+width: 155px;
+height: 36px;
+left: 1261px;
+top: 4631px;
+
+/* white */
+background: #FFFFFF;
+border-radius: 3px;
+
+
+/* Записаться на сеанс */
+
+width: 125px;
+height: 18px;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 140%;
+/* or 18px */
+
+/* accent  */
+color: #018ABE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* ocation */
+
+position: absolute;
+width: 392px;
+height: 290px;
+left: 1216px;
+top: 4726px;
+
+
+
+/* Rectangle 33 */
+
+position: absolute;
+width: 392px;
+height: 290px;
+left: 1216px;
+top: 4726px;
+
+/* accent  */
+background: #018ABE;
+border-radius: 10px;
+
+
+/* Бассейн "На Гороховой" */
+
+position: absolute;
+width: 302px;
+height: 34px;
+left: 1261px;
+top: 4761px;
+
+/* heading/24b */
+font-family: 'El Messiri';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 140%;
+/* identical to box height, or 34px */
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 262px;
+height: 19px;
+left: 1301px;
+top: 4856px;
+
+
+
+/* м. Крестовский остров */
+
+position: absolute;
+width: 262px;
+height: 19px;
+left: 1301px;
+top: 4856px;
+
+/* p/14r */
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 19px */
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* Group 13 */
+
+position: absolute;
+width: 262px;
+height: 19px;
+left: 1301px;
+top: 4816px;
+
+
+
+/* 3-й проезд Иванова */
+
+position: absolute;
+width: 262px;
+height: 19px;
+left: 1301px;
+top: 4816px;
+
+/* p/14r */
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 19px */
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* Group 14 */
+
+position: absolute;
+width: 302px;
+height: 20px;
+left: 1261px;
+top: 4895px;
+
+
+
+/* Запись по договоренности */
+
+position: absolute;
+width: 262px;
+height: 19px;
+left: 1301px;
+top: 4896px;
+
+/* p/14r */
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 19px */
+
+/* white */
+color: #FFFFFF;
+
+
+
+/* bi:calendar-week-fill */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1261px;
+top: 4895px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* white */
+background: #FFFFFF;
+
+
+/* Frame 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 9px 15px;
+gap: 10px;
+
+position: absolute;
+width: 155px;
+height: 36px;
+left: 1261px;
+top: 4945px;
+
+/* white */
+background: #FFFFFF;
+border-radius: 3px;
+
+
+/* Записаться на сеанс */
+
+width: 125px;
+height: 18px;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 140%;
+/* or 18px */
+
+/* accent  */
+color: #018ABE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* carbon:location-filled */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1261px;
+top: 4815px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 15%;
+right: 16.25%;
+top: 5%;
+bottom: 7.5%;
+
+/* white */
+background: #FFFFFF;
+
+
+/* _Inner-Path_ */
+
+position: absolute;
+left: 37.5%;
+right: 37.5%;
+top: 28.12%;
+bottom: 46.88%;
+
+
+
+/* Spb_metro_logo 1 */
+
+position: absolute;
+width: 20px;
+height: 16px;
+left: 1261px;
+top: 4857px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* white */
+background: #FFFFFF;
+
+
+/* maps */
+
+position: absolute;
+width: 856px;
+height: 604px;
+left: 312px;
+top: 4412px;
+
+
+
+/* Rectangle 27 */
+
+position: absolute;
+width: 856px;
+height: 604px;
+left: 312px;
+top: 4412px;
+
+background: url(image.png);
+border-radius: 10px;
+
+
+/* carbon:location-filled */
+
+position: absolute;
+width: 43px;
+height: 43px;
+left: 697px;
+top: 4778px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 15%;
+right: 16.25%;
+top: 5%;
+bottom: 7.5%;
+
+/* accent  */
+background: #018ABE;
+
+
+/* _Inner-Path_ */
+
+position: absolute;
+left: 37.5%;
+right: 37.5%;
+top: 28.12%;
+bottom: 46.88%;
+
+
+
+/* carbon:location-filled */
+
+position: absolute;
+width: 43px;
+height: 43px;
+left: 642px;
+top: 4478px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 15%;
+right: 16.25%;
+top: 5%;
+bottom: 7.5%;
+
+/* accent  */
+background: #018ABE;
+
+
+/* _Inner-Path_ */
+
+position: absolute;
+left: 37.5%;
+right: 37.5%;
+top: 28.12%;
+bottom: 46.88%;
+
